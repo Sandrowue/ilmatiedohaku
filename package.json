@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@fmidev/metoclient": "^6.8.13"
+  }
+}
